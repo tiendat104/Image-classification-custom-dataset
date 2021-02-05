@@ -28,7 +28,6 @@ III. Train and test:
 Simply run the file "train.py" inside the folder "keras_model".
 
 Then,the trained model will be saved inside the folder "keras_model/checkpoint" and the history plot will be saved in folder "keras_model/logs".
-
 For example, if there are already two folders "keras_model/checkpoint/1" and "keras_model/logs/1" before training, then after training model, the program will create two new folders "keras_model/checkpoint/2" and "keras_model/logs/2" and finally weights and logs will be saved into these two folders.
 
 - To test:
