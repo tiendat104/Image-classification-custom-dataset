@@ -4,7 +4,6 @@ I implement a simple image classification task on custom dataset, with code for 
 I. Data preparation: 
 
 Because the size of the whole dataset is big, so in this project, i only create a sample of few images for demo.
-
 You can get the whole dataset from this link:
 https://www.kaggle.com/puneet6060/intel-image-classification
 
