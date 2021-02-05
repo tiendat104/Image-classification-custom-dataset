@@ -1,7 +1,7 @@
 # Classification
-I implement a simple image classification task on custom dataset, with code for both keras and pytorch.
+I implement a simple image classification task on custom dataset, with code for both keras and pytorch./n
 
-Because the size of the whole dataset is big, so in this project, i only create a sample of few images for demo.
+Because the size of the whole dataset is big, so in this project, i only create a sample of few images for demo./n
 You can get the whole dataset from this link:
 https://www.kaggle.com/puneet6060/intel-image-classification
 After downloading the dataset from above links, please arange the images as the same as folder "data" in this project.
