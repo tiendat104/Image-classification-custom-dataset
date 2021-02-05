@@ -9,6 +9,16 @@ https://www.kaggle.com/puneet6060/intel-image-classification
 After downloading the dataset from above links, please arange the images as the same as folder "data" in this project.
 There are 3 folders "train", "test", "val", each folder contains 6 folders that contains images from 6 classes.
 
+Installation:
+
+For training this project, i use following environment:
+
+- tensorflow==1.15.0
+
+- keras==2.3.1
+
+- torch==1.3.1
+
 1. With keras model:
 - To train:
 
