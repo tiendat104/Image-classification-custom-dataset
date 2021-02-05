@@ -30,7 +30,7 @@ Simply run the file "train.py" inside the folder "pytorch_model".
 Then,the trained model will be saved inside the folder "pytorch_model/checkpoint" and the history plot will be saved in folder "pytorch/logs".
 For example, if there are already two folders "pytorch_model/checkpoint/1" and "pytorch_model/logs/1" before training, then after training model, the program will create two new folders "pytorch_model/checkpoint/2" and "pytorch_model/logs/2" and finally weights and logs will be saved into these two folders.
 
-To test: 
+- To test: 
 
 At the end of the file "pytorch_model/train.py", please comment the code for training and then uncomment the code for function test(). You can also pass another weight path inside the function test() if you want to load another weight model. 
 
