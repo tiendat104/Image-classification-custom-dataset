@@ -1,7 +1,7 @@
 # Classification
 I implement a simple image classification task on custom dataset, with code for both keras and pytorch.
 
-I. Data preparation: 
+# Data preparation: 
 
 Because the size of the whole dataset is big, so in this project, i only create a sample of few images for demo.
 You can get the whole dataset from this link:
@@ -10,7 +10,7 @@ https://www.kaggle.com/puneet6060/intel-image-classification
 After downloading the dataset from above links, please arange the images as the same as folder "data" in this project.
 There are 3 folders "train", "test", "val", each folder contains 6 folders that contains images from 6 classes.
 
-II. Installation:
+# Installation:
 
 For training this project, i use following environment:
 
@@ -20,7 +20,7 @@ For training this project, i use following environment:
 
 - torch==1.3.1
 
-III. Train and test: 
+# Train and test: 
 
 1. With keras model:
 - To train:
