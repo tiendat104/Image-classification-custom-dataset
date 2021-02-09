@@ -10,6 +10,9 @@ https://www.kaggle.com/puneet6060/intel-image-classification
 After downloading the dataset from above links, please arange the images as the same as folder "data" in this project.
 There are 3 subfolders "train", "test", "val", each folder contains 6 subfolders that contains images from 6 classes.
 
+# Data visualization 
+![](assets/data_visualize.png)
+
 # Installation:
 
 For training this project, i use following environment:
